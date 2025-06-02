@@ -54,5 +54,5 @@ Exemplo:
 ---
 
 <p align="center">
-Feito com ❤️ por [Laerty]
+Feito com total dedicação de Laerty Silva e a maravilhosa graçado senhor.
 </p>
