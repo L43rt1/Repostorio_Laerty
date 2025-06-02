@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou [Seu Nome]! 👋</h1>
+<h1 align="center">Olá, eu sou Laerty Silva! 👋</h1>
 
 <p align="center">
 Desenvolvedor Full Stack | Python • Java • JavaScript • C
