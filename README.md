@@ -1,58 +1,45 @@
-<h1 align="center">Olá, eu sou Laerty Silva! 👋</h1>
+# Olá, eu sou Laerty Andrade! 👨‍💻
 
-<p align="center">
-Desenvolvedor Full Stack | Python • Java • JavaScript • C
+Desenvolvedor Full Stack & Especialista em Automações | TypeScript • JavaScript • Java • PostgreSQL • n8n
+
+---
+
+## 🚀 Sobre mim
+
+Sou um desenvolvedor de software focado em soluções eficientes, escaláveis e automatizadas. Atualmente, atuo no desenvolvimento de aplicações modernas (frontend e backend), arquitetura de monorepos, computação em nuvem (AWS) e integração de sistemas robustos.
+
+Atualmente, estudo e desenvolvo projetos que envolvem:
+* 📌 **Criação de APIs REST** e arquiteturas escaláveis.
+* 📌 **Automação de processos** e chatbots avançados (n8n, Webhooks e APIs).
+* 📌 **Aplicações web responsivas** utilizando ecossistemas modernos (TypeScript, React/Next).
+* 📌 **Modelagem e gerenciamento de bancos de dados relacionais** (PostgreSQL).
+
+---
+
+## 🧠 Tecnologias e Ferramentas
+
+### 💻 Linguagens e Tecnologias
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+### 🛠️ Infraestrutura, Ferramentas e DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
-
-Sou um desenvolvedor de software com foco em soluções **frontend** e **backend**, sempre buscando construir sistemas eficientes, limpos e escaláveis. Tenho conhecimento em diversas linguagens e tecnologias, com destaque para **Python**, **Java**, **JavaScript** e **C**.
-
-Atualmente, estudo e desenvolvo projetos que envolvem:
-
-- 📌 Criação de APIs REST
-- 📌 Aplicações web responsivas
-- 📌 Sistemas orientados a objetos
-- 📌 Banco de dados relacionais
-
----
-
-## 🧠 Tecnologias que utilizo
-
-### 💻 Linguagens
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🛠️ Ferramentas e tecnologias
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
----
-
-
-
----
-
-## 📫 Contato
-
-- ✉️ Email: [laertysilva498@gmail.com.br]
-- 🔗 LinkedIn: [https://www.linkedin.com/in/seuusuario](https://www.linkedin.com/in/## 🚀 Projetos em destaque
-
-📌 Em breve: seus projetos vão aparecer aqui com links e descrições!  
-Exemplo:
-
-- [Sistema de Cadastro com Java e MySQL](https://github.com/seuusuario/sistema-cadastro-java)
-- [API REST em Python Flask](https://github.com/seuusuario/api-flask-clientes))
-
----
+## 📈 Estatísticas do GitHub
 
 <p align="center">
-Feito com total dedicação de Laerty Silva e a maravilhosa graçado senhor.
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=L43rt1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L43rt1&layout=compact&theme=tokyonight" />
 </p>
